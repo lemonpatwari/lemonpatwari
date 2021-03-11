@@ -19,12 +19,10 @@
 <br/>
 <br/>
 
-<h1>lemon</h1>
-
 <!--
 **lemonpatwari/lemonpatwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-<p>
   Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Dhaka International University](https://diu.ac).
@@ -33,6 +31,3 @@
 - 😄 Pronouns: He/His
 - 📫 How to reach me: lemonpatwari.com
 - ⚡ Fun fact: I spend almost 60 hours to developing to 7 Days of Week.
--->
-  
-  </p
