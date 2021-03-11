@@ -22,7 +22,8 @@
 <!--
 **lemonpatwari/lemonpatwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p>
+  Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Dhaka International University](https://diu.ac).
 - 🔭 I’m currently working on [laravel](https://laravel.com),[Lumen](https://lumen.laravel.com/),[Vue](https://vuejs.org),[Nuxt js](https://nuxtjs.org)
@@ -31,3 +32,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lemonpatwari.com
 - ⚡ Fun fact: I spend almost 60 hours to developing to 7 Days of Week.
 -->
+  
+  </p
