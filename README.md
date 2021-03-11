@@ -41,4 +41,5 @@
 - ⚡ Fun fact: I spend almost 60 hours to developing to 7 Days of Week.
 
 [![GitHub lemonpatwari](https://img.shields.io/github/followers/lemonpatwari?label=follow&style=social)](https://github.com/lemonpatwari)
+[![Linkedin: lemonpatwari](https://img.shields.io/badge/-lemonpatwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lemonpatwari/)](https://www.linkedin.com/in/lemonpatwari/)
 [![website](https://img.shields.io/badge/Portfolio-lemonpatwari.com-2648ff?style=flat-square&logo=google-chrome)](https://www.lemonpatwari.com)
