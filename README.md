@@ -1,5 +1,9 @@
 ### Hi there Lemon Patwari 👋
 
+<a href="https://www.facebook.com/lemonpatwari" target="_blank">
+  <img align="left" alt="Lemon's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
 <a href="https://twitter.com/lemonpatwari" target="_blank">
   <img align="left" alt="Lemon's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -12,9 +16,14 @@
   <img align="left" alt="Lemon's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://www.facebook.com/lemonpatwari" target="_blank">
-  <img align="left" alt="Lemon's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://bitbucket.com/lemonpatwari" target="_blank">
+  <img align="left" alt="Lemon's Bitbucket" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitbucket.svg" />
 </a>
+
+<a href="https://gitlab.com/lemonpatwari" target="_blank">
+  <img align="left" alt="Lemon's Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+</a>
+
 
 <br/>
 <br/>
