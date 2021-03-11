@@ -1,18 +1,18 @@
 ### Hi there Lemon Patwari 👋
 
-<a href="https://twitter.com/lemonpatwari">
+<a href="https://twitter.com/lemonpatwari" target="_blank">
   <img align="left" alt="Lemon's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
-<a href="https://www.linkedin.com/in/lemonpatwari">
+ 
+<a href="https://www.linkedin.com/in/lemonpatwari" target="_blank">
   <img align="left" alt="Lemon's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://github.com/lemonpatwari">
+<a href="https://github.com/lemonpatwari" target="_blank">
   <img align="left" alt="Lemon's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://www.facebook.com/lemonpatwari">
+<a href="https://www.facebook.com/lemonpatwari" target="_blank">
   <img align="left" alt="Lemon's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
