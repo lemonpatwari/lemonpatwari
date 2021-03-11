@@ -32,8 +32,6 @@
 **lemonpatwari/lemonpatwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-  Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [Dhaka International University](https://diu.ac).
 - 🔭 I’m currently working on [laravel](https://laravel.com),[Lumen](https://lumen.laravel.com/),[Vue](https://vuejs.org),[Nuxt js](https://nuxtjs.org)
 - 🌱 I’m currently learning [laravel](https://laravel.com),[Lumen](https://lumen.laravel.com/),[Vue](https://vuejs.org),[Nuxt js](https://nuxtjs.org)
