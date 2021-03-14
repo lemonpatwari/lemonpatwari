@@ -1,29 +1,6 @@
 ### I'm [Lemon Patwari!](https://www.lemonpatwari.com) 👋
 
-<a href="https://www.facebook.com/lemonpatwari" target="_blank">
-  <img align="left" alt="Lemon's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-<a href="https://twitter.com/lemonpatwari" target="_blank">
-  <img align="left" alt="Lemon's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
- 
-<a href="https://www.linkedin.com/in/lemonpatwari" target="_blank">
-  <img align="left" alt="Lemon's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://github.com/lemonpatwari" target="_blank">
-  <img align="left" alt="Lemon's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href="https://bitbucket.com/lemonpatwari" target="_blank">
-  <img align="left" alt="Lemon's Bitbucket" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitbucket.svg" />
-</a>
-
-<a href="https://gitlab.com/lemonpatwari" target="_blank">
-  <img align="left" alt="Lemon's Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
-</a>
-
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/lemonpatwari)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/lemonpatwari)   [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/lemonpatwari)  [![Twitter Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://www.twitter.com/lemonpatwari) [![Github Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=github&logoColor=ffffff)](https://github.com/lemonpatwari) [![Bitbucket Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=bitbucket&logoColor=ffffff)](https://bitbucket.com/lemonpatwari) [![Gitlab Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=gitlab&logoColor=ffffff)](https://gitlab.com/lemonpatwari)
 
 <br/>
 <br/>
