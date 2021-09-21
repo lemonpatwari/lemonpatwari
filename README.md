@@ -8,11 +8,6 @@
 - 📞 (+880) 1521424060
 - 💌 lemonpatwari@gmail.com
 - 💌 hello@lemonpatwari.com
-
-<!--
-**lemonpatwari/lemonpatwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 - 🔭 I’m currently working on [Dhaka International University](https://diu.ac).
 - 🔭 I’m currently working on [laravel](https://laravel.com),[Lumen](https://lumen.laravel.com/),[Vue](https://vuejs.org),[Nuxt js](https://nuxtjs.org)
 - 🌱 I’m currently learning [laravel](https://laravel.com),[Lumen](https://lumen.laravel.com/),[Vue](https://vuejs.org),[Nuxt js](https://nuxtjs.org)
@@ -26,15 +21,10 @@
 [![Linkedin: lemonpatwari](https://img.shields.io/badge/-lemonpatwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lemonpatwari/)](https://www.linkedin.com/in/lemonpatwari/)
 [![website](https://img.shields.io/badge/Portfolio-lemonpatwari.com-2648ff?style=flat-square&logo=google-chrome)](https://www.lemonpatwari.com)
 
-
-<br/>
-
 #### Laravel Package
 
 - [Number to Bangla](https://github.com/lemonpatwari/number-to-bangla) - Laravel package to convert any English number to Bangla.
 - [bangladesh Geocode](https://github.com/lemonpatwari/laravel-bangladesh-geocode) - Laravel package for division, district, upazila/thana and union data of Bangladesh.
-
-<br/>
 
 ##### Portfolio
 - [lemonpatwari.com](https://lemonpatwari.com)
