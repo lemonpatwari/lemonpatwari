@@ -31,6 +31,15 @@
 [![website](https://img.shields.io/badge/Portfolio-lemonpatwari.com-2648ff?style=flat-square&logo=google-chrome)](https://www.lemonpatwari.com)
 
 
+<br/>
+
+#### Laravel Package
+
+- [Number to Bangla](https://github.com/lemonpatwari/number-to-bangla) - Laravel package to convert any English number to Bangla.
+- [bangladesh Geocode](https://github.com/lemonpatwari/laravel-bangladesh-geocode) - Laravel package for division, district, upazila/thana and union data of Bangladesh.
+
+<br/>
+
 ##### Portfolio
 - [lemonpatwari.com](https://lemonpatwari.com)
 
