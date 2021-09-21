@@ -9,9 +9,6 @@
 - 💌 lemonpatwari@gmail.com
 - 💌 hello@lemonpatwari.com
 
-
-<br/>
-
 <!--
 **lemonpatwari/lemonpatwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
