@@ -9,7 +9,7 @@ I'm [Lemon Patwari](https://www.lemonpatwari.com), currently working at [Veefin]
 - 📞 (+880) 1521424060
 - 💌 lemonpatwari@gmail.com
 - 💌 hello@lemonpatwari.com
-- 🔭 I’m currently working on [Dhaka International University](https://diu.ac).
+- 🔭 I’m currently working on [Veefin Solution](http://www.veefin.com).
 - 🔭 I’m currently working on [laravel](https://laravel.com),[Lumen](https://lumen.laravel.com/),[Vue](https://vuejs.org),[Nuxt js](https://nuxtjs.org)
 - 🌱 I’m currently learning [laravel](https://laravel.com),[Lumen](https://lumen.laravel.com/),[Vue](https://vuejs.org),[Nuxt js](https://nuxtjs.org)
 - 💬 Ask me about Laravel,vue,nuxt or any tech related stuff.
