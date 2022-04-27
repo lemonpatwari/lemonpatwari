@@ -25,7 +25,7 @@ I'm [Lemon Patwari](https://www.lemonpatwari.com), currently working at [Veefin]
 #### Laravel Package
 
 - [Number to Bangla](https://github.com/lemonpatwari/number-to-bangla) - Laravel package to convert any English number to Bangla.
-- [bangladesh Geocode](https://github.com/lemonpatwari/laravel-bangladesh-geocode) - Laravel package for division, district, upazila/thana and union data of Bangladesh.
+- [Bangladesh Geocode](https://github.com/lemonpatwari/laravel-bangladesh-geocode) - Laravel package for division, district, upazila/thana and union data of Bangladesh.
 
 ##### Portfolio
 - [lemonpatwari.com](https://lemonpatwari.com)
