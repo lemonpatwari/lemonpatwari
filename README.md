@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm [Lemon Patwari](https://www.lemonpatwari.com), currently working at [Veefin](http://www.veefin.com) as Full Stack Web Apps Developer.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lemonpatwari&label=Profile%20views&color=0e75b6&style=flat" alt="lemonpatwari" /> </p>
+
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=2566C2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/lemonpatwari)  [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=2566C2&logo=instagram&logoColor=ffffff)](https://www.instagram.com/lemonpatwari)   [![Facebook Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/lemonpatwari)  [![Twitter Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://www.twitter.com/lemonpatwari) [![Github Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=github&logoColor=ffffff)](https://github.com/lemonpatwari) [![Bitbucket Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=bitbucket&logoColor=ffffff)](https://bitbucket.com/lemonpatwari) [![Gitlab Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=gitlab&logoColor=ffffff)](https://gitlab.com/lemonpatwari)
 
 
